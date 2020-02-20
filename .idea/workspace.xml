@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="af96972f-09c1-4814-a1ac-965b0c528670" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="GeoMetry" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Y1I8AQ0yZKQtRaVWd6AOTfxYIX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="package1.Test" />
+      <module name="GeoMetry" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="package1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCircle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="package1.TestCircle" />
+      <module name="GeoMetry" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="package1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="package1.TestRectangle" />
+      <module name="GeoMetry" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="package1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSquare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="package1.TestSquare" />
+      <module name="GeoMetry" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="package1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestSquare" />
+        <item itemvalue="Application.TestRectangle" />
+        <item itemvalue="Application.TestCircle" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af96972f-09c1-4814-a1ac-965b0c528670" name="Default Changelist" comment="" />
+      <created>1582103511454</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582103511454</updated>
+      <workItem from="1582103512896" duration="6944000" />
+      <workItem from="1582120778164" duration="33000" />
+      <workItem from="1582160972444" duration="581000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="599" y="93" width="813" height="666" key="#Project_Structure" timestamp="1582104748543">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state x="599" y="93" width="813" height="666" key="#Project_Structure/0.23.1440.808@0.23.1440.808" timestamp="1582104748543" />
+    <state x="812" y="121" key="#com.intellij.ide.util.MemberChooser" timestamp="1582119770550">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state x="812" y="121" key="#com.intellij.ide.util.MemberChooser/0.23.1440.808@0.23.1440.808" timestamp="1582119770550" />
+    <state x="640" y="78" key="#toString()_Generation_Settings" timestamp="1582105240639">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state x="640" y="78" key="#toString()_Generation_Settings/0.23.1440.808@0.23.1440.808" timestamp="1582105240639" />
+    <state width="1398" height="207" key="GridCell.Tab.0.bottom" timestamp="1582161555035">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1398" height="207" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1582161555035" />
+    <state width="832" height="207" key="GridCell.Tab.0.bottom/0.23.1440.811@0.23.1440.811" timestamp="1582120700762" />
+    <state width="1398" height="207" key="GridCell.Tab.0.center" timestamp="1582161555034">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1398" height="207" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1582161555034" />
+    <state width="832" height="207" key="GridCell.Tab.0.center/0.23.1440.811@0.23.1440.811" timestamp="1582120700761" />
+    <state width="1398" height="207" key="GridCell.Tab.0.left" timestamp="1582161555033">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1398" height="207" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1582161555033" />
+    <state width="832" height="207" key="GridCell.Tab.0.left/0.23.1440.811@0.23.1440.811" timestamp="1582120700761" />
+    <state width="1398" height="207" key="GridCell.Tab.0.right" timestamp="1582161555034">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1398" height="207" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1582161555034" />
+    <state width="832" height="207" key="GridCell.Tab.0.right/0.23.1440.811@0.23.1440.811" timestamp="1582120700761" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/package1/Test.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
